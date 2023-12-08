@@ -20,13 +20,3 @@ public class Item : Entity
     public int Mileage { get; set; }
     public string ImageUrl { get; set; }
 }
-
-public class TestClass
-{
-    public int number;
-    
-    public TestClass()
-    {
-        
-    }
-}
